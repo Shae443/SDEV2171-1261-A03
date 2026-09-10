@@ -13,3 +13,5 @@
 ## Setup
 
 - [Android Studio](https://developer.android.com/studio)
+
+- [Java Development Kit (JDK)](https://jdk.java.net/archive/)
